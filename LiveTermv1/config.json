@@ -1,0 +1,39 @@
+{
+  "readmeUrl": "https://www.wolai.com/kqb3CXfqeFtRjrQQVPpk1K",
+  "title": "Mindlessly",
+  "name": "Guo Kexian",
+  "ascii": "Mindlessly",
+  "social": {
+    "QQ": "2523896119",
+    "weibo": "6564636694"
+  },
+  "email": "puddingwork@163.com",
+  "ps1_hostname": "Mindlessly",
+  "ps1_username": "visitor游客",
+  "repo": "https://www.wolai.com/kqb3CXfqeFtRjrQQVPpk1K",
+  "resume_url": "https://www.wolai.com/kqb3CXfqeFtRjrQQVPpk1K",
+  "donate_urls": {
+    "paypal": "help chinese students",
+    "patreon": "help chinese environment"
+  },
+  "colors": {
+    "light": {
+      "background": "#FBF1C9",
+      "foreground": "#3C3836",
+      "yellow": "#D79921",
+      "green": "#98971A",
+      "gray": "#7C6F64",
+      "blue": "#458588",
+      "red": "#CA2124"
+    },
+    "dark": {
+      "background": "#1c1c1c",
+      "foreground": "#EBDBB2",
+      "yellow": "#D79921",
+      "green": "#98971A",
+      "gray": "#A89984",
+      "blue": "#458588",
+      "red": "#CA2124"
+    }
+  }
+}
